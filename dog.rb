@@ -1,4 +1,4 @@
-require_relative 'mammal'
+cscrequire_relative 'mammal'
 
 class Dog < Mammal
 	def pet
